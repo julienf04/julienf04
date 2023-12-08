@@ -1,6 +1,6 @@
 I'm a person who likes learning and improving. Enjoy your life
 
-You can contact me for any reason on my instagram, email, or wherever you like.
+You can contact me for any reason on my instagram, email, or wherever you most like.
 
 <!---
 julienf04/julienf04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
