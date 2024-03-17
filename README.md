@@ -1,4 +1,4 @@
-Hey, how are u? Have a nice day
+.
 
 <!---
 julienf04/julienf04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
